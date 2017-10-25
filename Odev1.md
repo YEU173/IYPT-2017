@@ -9,7 +9,7 @@ Sınıf | Öğrenci İsmi  | Numara
 
 #  (Two Balloons)
 ## Özet
-Projemiz,2015 yılının IYPT sorularından biri olan 2 balonla ilgili olacaktır.Birbirine hortumla bağlı 2 balonu basınç ile hava verilmesini ve balonların şişmesini gözlemleyerek yapacağımız araştırmalarda,sıcak hava ve soğuk havanın balonun hacmini nasıl arttırdığını,hava akımının hangi yöne daha çok ve ya az ilerlediğini öğrenmeye çalışacağız.Hava akımının sıcak ve soğuk havada nasıl ierlediğini gözlemleyeceğiz.Barometre ve benzeri arçlardan basınç ölçümü için yararlanacağız.
+Projemiz,2015 yılının IYPT sorularından biri olan 2 balonla ilgili olacaktır.Birbirine hortumla bağlı 2 balonu basınç ile hava verilmesini ve balonların şişmesini gözlemleyerek yapacağımız araştırmalarda,sıcak hava ve soğuk havanın balonun hacmini nasıl arttırdığını,hava akımının hangi yöne daha çok ve ya az ilerlediğini öğrenmeye çalışacağız.Hava akımının sıcak ve soğuk havada nasıl iLerlediğini gözlemleyeceğiz.Barometre ve benzeri araçlardan basınç ölçümü için yararlanacağız.
 
 ## Kaynakçalar  
 F. Weinhaus and W. Barker. On the equilibrium states of interconnected bubbles or balloons. Am. J. Phys. 
