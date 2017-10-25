@@ -5,8 +5,8 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
 9/E    | Yunus Emre Ulusen | 628
-9/E    | Mehmet Emin Algül | 111
-9/E    | Civan 
+9/E    | Mehmet Emin Algül | 635
+9/E    | Civan Çetin 580   |580
 
 #  (Two Balloons)
 ## Özet
