@@ -4,18 +4,17 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+9/E    | Yunus Emre Ulusen | 628
+9/E    | Mehmet Emin Algül | 111
+9/E    | Civan 
 
-#  (buraya proje başlığını yazınız)
+#  (Two Balloons)
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+Projemiz,2015 yılının IYPT sorularından biri olan 2 balonla ilgili olacaktır.Birbirine hortumla bağlı 2 balonu basınç ile hava verilmesini ve balonların şişmesini gözlemleyerek yapacağımız araştırmalarda,sıcak hava ve soğuk havanın balonun hacmini nasıl arttırdığını,hava akımının hangi yöne daha çok ve ya az ilerlediğini öğrenmeye çalışacağız.Hava akımının sıcak ve soğuk havada nasıl ierlediğini gözlemleyeceğiz.
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+F. Weinhaus and W. Barker. On the equilibrium states of interconnected bubbles or balloons. Am. J. Phys. 
+46, 978-982 (1978
+Wikipedia: Two balloons experiment,http://en.wikipedia.org/wiki/Two-balloon_experiment
+Wikipedia: Elasticity,http://en.wikipedia.org/wiki/Elasticity_(physics)
+P. Zendedel Nobari, R. M. Namin, and H. Azizinaghsh. Energy losses and efficiency in a balloon powered car. In: IYPT Proc. 2010-2011(AYIMI, IYPT Archive, 2011), http://archive.iypt.org/iypt_book/2011_5_Car_Iran_PZN_RMN_HA_v6.pdf
